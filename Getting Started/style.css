@@ -1,0 +1,86 @@
+.nav { 
+    margin-top: -200;
+    margin-bottom: 100;
+    border: solid;
+    padding: 5px;
+    background-color: black;
+    
+}
+
+nav li {
+  margin:0;
+  padding: 0 190;
+      display: inline;
+}
+
+.title {
+    margin-top: -200;
+    margin-bottom: 250px;
+    color: greenyellow;
+    font-size: 3rem;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.side {
+    position: absolute;
+    left: 1400px;
+    top: 400px;
+    border: solid;
+    float: right;
+}
+
+.main {
+    position: relative;
+    margin-right: 1000px;
+}
+
+#green {
+    border: dotted;
+    border-color:antiquewhite
+}
+
+span {
+    
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+    object-position: top; 
+}
+
+a:hover {
+    color: gray;
+}
+
+body {
+  padding: 250px 0;
+	margin: 30px;
+  font-family:'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("http://wallgallery.org/wp-content/uploads/2016/01/Earth-From-Space-high-quality-wallpapers.jpg");
+  background-size:cover;
+  color: #ffffff;
+
+}
+
+#footer {
+  
+	font-size: 0.75rem;
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+h2 {
+    float:inherit
+}
